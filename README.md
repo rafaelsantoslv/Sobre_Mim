@@ -2,5 +2,5 @@
 
 
 - 🔭 Hoje trabalho como Analista de Sistemas
-- 🌱 Tenho experiência em PHP, Nodejs e Asterisk
+- 🌱 Tenho experiência em Javascript, NodeJS, PHP
 - 📫 Como me alcançar: rafaeldsantos442@gmail.com
